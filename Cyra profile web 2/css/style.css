@@ -1,0 +1,130 @@
+/* import fonts */
+@import url(fonts.css);  
+@import url(partials/_variables.css);
+
+
+/* Background */
+
+
+/* start navigationn */
+.nav-link{
+    font-family: "PT_Serif", serif;
+}
+
+/* end navigation woo */
+
+/* start container background */
+.banner{
+    background-image: url(web1.png);
+    background-repeat:no-repeat;
+    
+   background-size: cover;
+  width: auto;
+  
+  
+
+}
+.buttonyey{
+    padding-top: 360px;
+   padding-left: 320px;
+   padding-bottom: 200px;
+   font-size: large;
+
+}
+
+/*  end container background */
+
+/*start buttons*/
+.button{
+    font-family: "PT_Serif", serif;
+    border: 3px solid transparent;
+    border-radius: 4px;
+    background-clip: padding-box;
+    color: whitesmoke;
+    background-color: #eeb6b4;
+    transition: 0.6s ease;
+    padding: 10px, 10px, 10px, 10px;
+}
+.button:hover{
+    background-color:#44bfdf; 
+}
+.primary-button a:link{
+    color: whitesmoke;
+}
+.secondary-button a:link{
+    color: whitesmoke;
+}
+/*end buttons*/
+
+/* start about me */
+.about {
+    border-width: 5px;
+    border-top: 5px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: darkgray;
+}
+/* end about me */
+
+/* start social media */
+.social{
+ background-image:url(../img/Cyra\ web\ ui.png);
+ background-repeat:no-repeat;
+ background-size: cover;
+ width: 100%;
+ height: auto;
+ border: 30px solid;
+ border-image: url(../img/borderimg.png) stretch;
+}
+
+#social {
+ border-width: 50px;
+ border-style: solid;
+ padding: 15px;
+ border-image: url(../img/borderimg.png) 30 stretch;
+}
+
+.youtube{
+    margin: 100px;
+    margin-left: 100px;
+    
+}
+.heading{
+    color: #eeb6b4; 
+    font-family: "playlist_script", cursive;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#insta {
+    margin-top: -340px;
+    width: 180px;
+    margin-left: 50px;
+}
+
+
+/* end social media */
+
+/* start achievement */
+/* end achievement */
+
+/* start resume */
+.btnresume {
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    padding top: 250px;
+}
+
+.resume {
+    height: 500px;
+}
+/* end resume*/ 
+
+
+
+

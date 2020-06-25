@@ -1,0 +1,23 @@
+
+
+@font-face{
+	font-family:"Roboto";
+	src:"../fonts/Roboto/Roboto-Regular.ttf";
+}
+@font-face{
+	font-family:"PT_serif";
+	src: "../fonts/PT_serif.otf";
+}
+@font-face {
+    font-family: 'playlist-script';
+    src:url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.eot?#iefix') format('embedded-opentype');
+    src:url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.woff') format('woff'),
+        url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.svg#playlist-script/Playlist-Script') format('svg'),
+        url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.eot'),
+        url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.ttf') format('truetype'),
+		    url('http://blogwithconfidence.com/wp-content/themes/x-child/framework/fonts/playlist-script/Playlist-Script.eot?#iefix') format('embedded-opentype');  
+}
+@font-face {
+  font-family: "playlist_script";
+  src: url(../Fonts/Playlist_Script.woff) format("woff");
+}
